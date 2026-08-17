@@ -1,0 +1,46 @@
+{
+  "schema": "jhyd-public-landing/v1",
+  "generated_at": "2026-08-17T09:27:50.156Z",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "23E727C9E1DD8C0186BC6F18682F395ED484AC799EF6A01C8EA0624C57B76FD8"
+    },
+    {
+      "path": "product-landing.html",
+      "sha256": "23E727C9E1DD8C0186BC6F18682F395ED484AC799EF6A01C8EA0624C57B76FD8"
+    },
+    {
+      "path": "product-landing-en.html",
+      "sha256": "C33ACEDD4F427418D1E41FCB77CEEDD5E81CE604185B84F966AEFD7D1D0F7CE0"
+    },
+    {
+      "path": "assets/product/product-set.jpg",
+      "sha256": "66FAA01C113C77AFF35065B2B9724F800E6F57AD6BE9B1585FAAC8596D70ADE5"
+    },
+    {
+      "path": "assets/product/product-box.jpg",
+      "sha256": "FDD16A4D984651409057FF108645DBF8C47A8143FC5E0F7E7B50E86BA7F4C78F"
+    },
+    {
+      "path": "assets/product/wechat-contact-qr.png",
+      "sha256": "84126AD182C77290796C68CA1C2BF93E213D3DAF4A4D85AC50B283921ACBDB77"
+    },
+    {
+      "path": "assets/product/qq-contact-qr.png",
+      "sha256": "AA248684EE828777193FFB26A6C12BFD3F98CE181D4742547308189D5DA02D9C"
+    },
+    {
+      "path": "assets/product/qq-849786474.png",
+      "sha256": "B88AF2B50AF9B0EB509FEAAED326EF01B5C545BD634D8AA134070ADA77D69883"
+    },
+    {
+      "path": "assets/product/whatsapp-contact-qr.png",
+      "sha256": "0848F1A0B5C279EBCBFF6151BD063A536590088BD8202FEE86B5C801AF8A7078"
+    },
+    {
+      "path": "assets/product/telegram-contact-qr.png",
+      "sha256": "C6C5A64856F7E4F15DBA6C2AAABE52AA3C0C8A2B071FDB85F88C34A3A5E5C71E"
+    }
+  ]
+}
