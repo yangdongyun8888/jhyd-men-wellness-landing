@@ -1,6 +1,6 @@
 {
   "schema": "jhyd-public-landing/v1",
-  "generated_at": "2026-08-17T09:27:50.156Z",
+  "generated_at": "2026-08-17T09:33:57.710Z",
   "files": [
     {
       "path": "index.html",
@@ -12,7 +12,7 @@
     },
     {
       "path": "product-landing-en.html",
-      "sha256": "C33ACEDD4F427418D1E41FCB77CEEDD5E81CE604185B84F966AEFD7D1D0F7CE0"
+      "sha256": "52FF32E2349EA5D06CC59F5B0F8BE57EC1B6368495FCD26666110F4095ECF2C6"
     },
     {
       "path": "assets/product/product-set.jpg",
@@ -29,10 +29,6 @@
     {
       "path": "assets/product/qq-contact-qr.png",
       "sha256": "AA248684EE828777193FFB26A6C12BFD3F98CE181D4742547308189D5DA02D9C"
-    },
-    {
-      "path": "assets/product/qq-849786474.png",
-      "sha256": "B88AF2B50AF9B0EB509FEAAED326EF01B5C545BD634D8AA134070ADA77D69883"
     },
     {
       "path": "assets/product/whatsapp-contact-qr.png",
